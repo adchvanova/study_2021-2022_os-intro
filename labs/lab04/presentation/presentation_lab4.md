@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Презентация лабораторной работы 3 Markdown
+title: Презентация лабораторной работы 4. Основы интерфейса взаимодействия пользователя с системой Unix на уровне командной строки
 author: |
 	Cvanova Angelin D
 institute: |
@@ -21,8 +21,6 @@ header-includes:
 aspectratio: 43
 section-titles: true
 ---
-
-# Лабораторная работа 4.
 
 ## Цель работы
 
